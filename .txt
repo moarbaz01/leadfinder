@@ -1,0 +1,2 @@
+We fetched data according to our query
+We processed data to fetch details like contact number and others  
